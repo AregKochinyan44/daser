@@ -1,0 +1,15 @@
+.logo{
+    background-color: #001529;
+      padding: 100px 0;
+  }
+  .logo h1{
+      font-size: 22px;
+      font-weight: 777;
+      color:white;
+      margin-left: 35px;
+  }
+  .logo ul li a{
+      margin-right: 40px;
+      color: gray;
+      
+  }
